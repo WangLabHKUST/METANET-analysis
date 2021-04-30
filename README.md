@@ -5,4 +5,4 @@ The codes used to develop MetaNet models. Note that part of the data from Founda
 Please see the R code metanet_model1_metastatic_risk_assessment.R
 
 ### Organotropic Stratification
-Please see the Matlab code metanet_model2_organotropic_stratification.m
+Please see the Matlab code metanet_model2_organotropic_stratification.m. To run the code, please install the ORCA package first at https://github.com/ayrna/orca
