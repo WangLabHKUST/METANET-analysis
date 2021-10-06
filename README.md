@@ -1,4 +1,7 @@
 # METANET-analysis
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5552886.svg)](https://doi.org/10.5281/zenodo.5552886)
+
 ## Introduction
 
 MetaNet (Metastasis Network model), is a computational framework developed (1) to assess metastatic risk of a primary tumor, and (2) to stratify patients into risk groups with different propensities of organotropic metastases.
