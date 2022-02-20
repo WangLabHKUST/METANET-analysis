@@ -8,7 +8,11 @@ MetaNet (Metastasis Network model), is a computational framework developed (1) t
 
 ## How to Cite
 
-The preprint of MetaNet manuscript is available at Research Square [link to the preprint](https://www.researchsquare.com/article/rs-73390/v1).
+The manuscript of MetaNet is now published on [Nature Communications](https://www.nature.com/articles/s41467-021-27017-w).
+
+Jiang, Biaobin, Quanhua Mu, Fufang Qiu, Xuefeng Li, Weiqi Xu, Jun Yu, Weilun Fu, Yong Cao, and Jiguang Wang. 
+"Machine learning of genomic features in organotropic metastases stratifies progression risk of primary tumors." 
+Nature Communications 12, no. 1 (2021): 1-15.
 
 ## Datasets
 
